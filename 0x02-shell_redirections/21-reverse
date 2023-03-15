@@ -1,2 +1,2 @@
 #!/bin/bash
-./reverse.sh "Hello, world!"
+echo "Reverse" | ./21-reverse
