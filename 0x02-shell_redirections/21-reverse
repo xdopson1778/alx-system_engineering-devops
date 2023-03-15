@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "School" | rev
+./reverse.sh "Hello, world!"
